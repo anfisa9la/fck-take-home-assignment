@@ -145,10 +145,6 @@ def main2(file):
 
 	rf = open(file, 'r').read().split("\n")
 
-	
-
-
-
 
 if __name__ == "__main__":
 	import sys
